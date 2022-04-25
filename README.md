@@ -1,7 +1,8 @@
 <h1 align="center">Hello World</h1>
 
-- 🌱 I’m currently contributing to open source
-- ⚡ Fun fact: **i'm a certified book worm**
+- 🌱 **Currently:** contributing to open source
+- ⚡ **Research interests:** genetic algorithms & automated defect predition
+- ⚡ **Fun fact:** i'm a certified book worm
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=benardcharumbira&show_icons=true&locale=en" alt="ben-stats" width="400" height="auto"></p>  
 
