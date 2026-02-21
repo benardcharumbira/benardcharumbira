@@ -8,8 +8,6 @@ I’m a software engineer who loves building useful things, learning new tech, a
 
 * Building data platforms & fintech systems
 * Playing around with AI/ML ideas
-* Research in 
-
 
 ## 🔬 Research interests
 
