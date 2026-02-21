@@ -21,15 +21,6 @@ When I’m not fighting bugs in production, I’m wrestling humans on the Brazil
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benardcharumbira&show_icons=true&locale=en" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benardcharumbira&show_icons=true&locale=en&layout=compact" width="320" />
-</p>
-
----
-
 ## 🧰 Languages & Tools I Enjoy
 
 <p>
@@ -37,6 +28,8 @@ When I’m not fighting bugs in production, I’m wrestling humans on the Brazil
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 </p>
